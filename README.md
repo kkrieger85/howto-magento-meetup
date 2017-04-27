@@ -52,7 +52,7 @@ Abschluss gegen 22:30
 * offene Runde
 * Vorstellung von Projekten
 * Most used Extensions / Empfehlungen
-* Lizards & Pumpkin
+* [Lizards & Pumpkin](http://lizardsandpumpkins.com/)
 * Frontend-Testing
  * UI-Components M2
  * Visual Diffs
@@ -60,6 +60,7 @@ Abschluss gegen 22:30
  * Selenium Tests
  * Codeception
 
+[Nomad Mage](https://nomadmage.com/) haben auch nen Sonderpreis für meetups/usergroups. Wenns also an Vorträgen fehlt, könnte man auf deren Video reservoir zurückgreifen.
 
 ## Der erste Stammtisch
 
