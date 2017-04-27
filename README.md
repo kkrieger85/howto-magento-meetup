@@ -61,6 +61,7 @@ Abschluss gegen 22:30
  * Codeception
 
 [Nomad Mage](https://nomadmage.com/) haben auch nen Sonderpreis für meetups/usergroups. Wenns also an Vorträgen fehlt, könnte man auf deren Video reservoir zurückgreifen.
+https://twitter.com/nomadmage/status/806513367162744832
 
 ## Der erste Stammtisch
 
